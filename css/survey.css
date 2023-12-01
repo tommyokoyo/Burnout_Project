@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#survey-container {
+    max-width: 600px;
+    margin: 5% auto;
+    padding: 20px;
+    border: 2px solid #765fd3;
+    border-radius: 8px;
+    box-shadow: 2px 9px 49px -17px rgba(0,0,0,0.1);
+}
+
+#questions-container {
+    margin-bottom: 20px;
+}
+
+.question {
+    margin-bottom: 10px;
+}
+
+.select-dropdown {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 2px solid #765fd3;
+    border-radius: 8px;
+}
